@@ -1,0 +1,47 @@
+#title{
+    color: #2a7bff;
+}
+
+.right{
+    float: right;
+    width: 500px;
+    margin-right: 50px;
+}
+
+.left{
+    float: left;
+    width: 500px;
+    margin-left: 50px;
+}
+
+.left img{
+    height: 600px;
+}
+
+.right img{
+    height: 600px;
+}
+
+.row{
+    margin-bottom: 100px;
+}
+
+.divider{
+    height: 2px;
+    width: 100%;
+    background-color: #d6dcdb;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.right h4{
+    color: #807d7d;
+    line-height: 150%;
+}
+
+
+.left h4{
+    color: #807d7d;
+    line-height: 150%;
+}
